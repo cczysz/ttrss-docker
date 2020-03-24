@@ -25,4 +25,4 @@ nginx:
   volumes:
   - ./nginx.conf:/etc/nginx/nginx.conf
   ports:
-  - 8000:80
+  - 8001:80
